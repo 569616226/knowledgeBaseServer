@@ -1,0 +1,17 @@
+{
+  "name": "链咖 付费问答系统",
+  "description": "链咖 (公共 API) 文档",
+  "title": "欢迎来到链咖",
+  "version": "1.0.0",
+  "url": "http://api.knowledgebaseserver.test",
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  },
+  "header": {
+    "title": "API Overview",
+    "filename": "../public/api-rendered-markdowns/header.md"
+  },
+  "order": [
+  ]
+}

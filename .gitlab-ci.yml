@@ -1,0 +1,10 @@
+stages:
+- develop
+deploy:
+  stage: develop
+  script:
+    - deploy_qa_server qatest_elinkport_com knowledgeBaseServer
+  only:
+    - develop
+  tags:
+    - develop

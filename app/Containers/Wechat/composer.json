@@ -1,0 +1,6 @@
+{
+  "name": "apiato/wallet",
+  "description": "Wallet Container for apiato.",
+  "require": {
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apiato/guest",
+  "description": "Guest Container for apiato.",
+  "require": {
+    "qcloudsms/qcloudsms_php": "^0.1.2"
+  }
+}
